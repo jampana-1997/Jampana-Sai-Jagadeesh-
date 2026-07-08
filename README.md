@@ -19,7 +19,7 @@
 📍 Hyderabad, India
 
 🔗 LinkedIn:
-(నీ LinkedIn URL)
+in/sai-jagadeesh-jampana-a350b6218
 
 🔗 GitHub:
 https://github.com/jampana-1997
