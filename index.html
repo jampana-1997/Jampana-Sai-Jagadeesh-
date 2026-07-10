@@ -350,19 +350,21 @@ ZPP High School
 
 <h2 class="section-title">Contact Me</h2>
 
-<form action="https://formsubmit.co/jampana633@gmail.com" method="POST">
+<form action="https://api.web3forms.com/submit" method="POST">
 
-  <input type="text" name="name" placeholder="Your Name" required>
+<input type="hidden" name="access_key" value="YOUR_ACCESS_KEY">
 
-  <input type="email" name="email" placeholder="Your Email" required>
+<input type="text" name="name" required>
 
-  <input type="text" name="subject" placeholder="Subject" required>
+<input type="email" name="email" required>
 
-  <textarea name="message" placeholder="Your Message" required></textarea>
+<input type="text" name="subject">
 
-  <input type="hidden" name="_captcha" value="false">
+<textarea name="message" required></textarea>
 
-  <button type="submit">Send Message</button>
+<button type="submit">
+Send Message
+</button>
 
 </form>
 
